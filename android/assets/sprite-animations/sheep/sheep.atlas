@@ -1,0 +1,48 @@
+
+sheep.png
+size: 366,366
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+D:/Dropbox/UnderwaterTeamShare/alienvssheep/packs/anims800/animSheep1In/sheep0001
+  rotate: false
+  xy: 2, 261
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+D:/Dropbox/UnderwaterTeamShare/alienvssheep/packs/anims800/animSheep1In/sheep0002
+  rotate: false
+  xy: 2, 154
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+D:/Dropbox/UnderwaterTeamShare/alienvssheep/packs/anims800/animSheep1In/sheep0003
+  rotate: false
+  xy: 124, 261
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+D:/Dropbox/UnderwaterTeamShare/alienvssheep/packs/anims800/animSheep1In/sheep0004
+  rotate: false
+  xy: 2, 47
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+D:/Dropbox/UnderwaterTeamShare/alienvssheep/packs/anims800/animSheep1In/sheep0005
+  rotate: false
+  xy: 124, 154
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+D:/Dropbox/UnderwaterTeamShare/alienvssheep/packs/anims800/animSheep1In/sheep0006
+  rotate: false
+  xy: 246, 261
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
